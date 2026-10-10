@@ -121,8 +121,8 @@ class ProfileCog(commands.Cog):
             inline=False,
         )
         embed.add_field(
-            name="⚔️  MULTIPLAYER  •  `sad game @user [stake]`",
-            value="Challenge a player to Tic-Tac-Toe or Khla Klok.",
+            name="⚔️  MULTIPLAYER  •  `sad game @user`",
+            value="Challenge a friend or mention the bot for AI Mode. Free Play or Gem Wager, then Tic-Tac-Toe, Khla Klok, or Battleship.",
             inline=False,
         )
         embed.add_field(
